@@ -1,0 +1,29 @@
+img {
+    height: 700px;
+    width: 15%;
+    border: opx solid white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+main {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+#maind {
+    height: auto;
+    border: 2px solid white ;
+    border-radius: 10px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 10px;
+    margin: 10px;
+   
+}
+
+
+body {
+    background-color: burlywood;
+}
+
