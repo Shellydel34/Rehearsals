@@ -24,3 +24,12 @@ div{
     width:60%;
     margin: 0 auto;
 }
+
+#trb {
+    color: rgb(192, 241, 225);
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
